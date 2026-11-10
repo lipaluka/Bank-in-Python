@@ -24,3 +24,8 @@ def login(data, username, password):
         return True
     return False
 
+def loggedIn(data, username):
+    user = data["users"].get(username)
+    if user:
+        return True
+    return False
