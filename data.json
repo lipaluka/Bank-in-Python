@@ -5,5 +5,11 @@
             "accounts": []
         }
     },
-    "accounts": []
+    "accounts": [
+        {
+            "account_number": "HR3512345671234567890",
+            "user": "lipaluka",
+            "balance": 1000.00
+        }
+    ]
 }
